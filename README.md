@@ -45,5 +45,6 @@ https://github.com/user-attachments/assets/c4ddd5c5-4d30-4418-8833-b3127d86c0e6
 |C#: explorando a linguagem |[Certificado](https://cursos.alura.com.br/certificate/8a71c567-cd2e-4cef-835a-6ef4a163ad50?lang)
 |C#: orientação a objetos |[Certificado](https://cursos.alura.com.br/certificate/016150b8-33d5-4f8d-8f11-51cb5e310f10?lang)
 |JAVASCRIPT [40 HORAS] |[Certificado](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=33fbf9a734)
+|Formatação com Markdown |[Certificado](https://www.dio.me/certificate/KL3WCGUQ/share)
 
 <img src= 'image-2.png' width='100px'> <img src= 'image-1.png' width='100px'> 
