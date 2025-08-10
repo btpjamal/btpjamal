@@ -1,16 +1,14 @@
-## Hi there 👋
+``Print("Hello World")``
 
-<!--
-**btpjamal/btpjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNsZHhkYTl0MzRlM2UxdGZpeHFvazdneDJueXB6ZnJienYzdG5kYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif)
 
-Here are some ideas to get you started:
+-----------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src= 'image-2.png' width='100px'>
+<img src= 'image-1.png' width='100px'> 
+<h2>Olá me chamo João Victor, sou estudante de Ciência da computação e amante de tecnologia</h2>
+
+
+
+<video controls src="ssvid.net---Technologia-Original-Video-Technologia-Arab-Meme_1080pFHR.mp4" title="Title"></video>
+
