@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6dd9faee-29d4-4141-8228-9f5cbbcb4417" />
+<img width="100px" alt="image" src="https://github.com/user-attachments/assets/6dd9faee-29d4-4141-8228-9f5cbbcb4417" />
 
 <h2>Olá me chamo João Victor, sou estudante de Ciência da computação e amante de tecnologia</h2>
 
