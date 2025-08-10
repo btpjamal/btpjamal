@@ -4,8 +4,7 @@
 
 -----------------------
 
-<img src= 'image-2.png' width='100px'>
-<img src= 'image-1.png' width='100px'> 
+<img src= 'image-2.png' width='100px'> <img src= 'image-1.png' width='100px'> 
 <h2>Olá me chamo João Victor, sou estudante de Ciência da computação e amante de tecnologia</h2>
 
 
