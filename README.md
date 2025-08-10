@@ -9,5 +9,6 @@
 
 
 
-<video controls src="ssvid.net---Technologia-Original-Video-Technologia-Arab-Meme_1080pFHR.mp4" title="Title"></video>
+https://ssvid.net---Technologia-Original-Video-Technologia-Arab-Meme_1080pFHR.mp4
+
 
